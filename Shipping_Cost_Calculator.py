@@ -8,4 +8,4 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 1
-@2024, XYZ, Inc
+@2023, XYZ, Inc
